@@ -1,5 +1,5 @@
 ---
-title: Name DAO Mission?
+title: Mission
 order: 0
 ---
 

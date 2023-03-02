@@ -1,6 +1,6 @@
 ---
 title: What is Proto Name DAO?
-order: 1
+order: 2
 ---
 
 This DAO is the Proto Name DAO
