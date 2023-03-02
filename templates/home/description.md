@@ -1,4 +1,6 @@
-# WTF is Noun Site?
+# WTF is Name DAO?
 
-Congrats on deploying your new nounish website ✨. Head to `/templates/home/description.md` to edit this description.
-For full documentation visit the [Noun Site](https://github.com/neokry/noun-site) page on github.
+Welcome to Name DAO, where everyone knows your name.
+Name DAO will auction Named DAOs using a fork of nouns and nouns builder. The auction winner gets to pick the name of the next Named DAO to be launched (e.g. "John DAO"), which is automatically created as a noun-ish sub-DAO of Name DAO.
+
+All names have meaning. What's yours?
